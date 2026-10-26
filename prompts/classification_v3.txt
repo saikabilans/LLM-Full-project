@@ -1,0 +1,1 @@
+Classify the ticket as Billing, Technical, or Account. Examples: 'Need a refund' -> Billing; 'App crashes' -> Technical; 'Forgot password' -> Account. Return only the category. Ticket: {ticket}

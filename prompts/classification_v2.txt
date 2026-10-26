@@ -1,0 +1,1 @@
+Role: customer support classifier. Task: choose one category. Categories: Billing, Technical, Account. Billing covers charges and refunds; Technical covers bugs; Account covers login and profile issues. Return only the category. Ticket: {ticket}

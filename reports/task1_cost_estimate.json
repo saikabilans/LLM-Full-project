@@ -1,0 +1,8 @@
+{
+    "monthly_input_tokens": 45000000,
+    "monthly_output_tokens": 12000000,
+    "example_input_price_per_million": 0.15,
+    "example_output_price_per_million": 0.6,
+    "example_monthly_cost_usd": 13.95,
+    "note": "Example prices only. Verify official current pricing."
+}

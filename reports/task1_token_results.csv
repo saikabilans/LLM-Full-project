@@ -1,0 +1,6 @@
+﻿text_type,words,tokens,words_per_token,fits_8k,fits_128k
+Sentence,6,7,0.857,True,True
+Paragraph,21,24,0.875,True,True
+Page,600,762,0.787,True,True
+JSON,9,26,0.346,True,True
+Tamil,4,53,0.075,True,True

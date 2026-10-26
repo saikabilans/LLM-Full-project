@@ -1,0 +1,46 @@
+﻿version,ticket,expected,predicted,correct
+v1,Charged twice for subscription,Billing,Billing,True
+v1,Need a refund for my order,Billing,Billing,True
+v1,Invoice amount looks incorrect,Billing,Billing,True
+v1,Payment failed but money was deducted,Billing,Billing,True
+v1,Please explain my monthly bill,Billing,Billing,True
+v1,App crashes when I open settings,Technical,Technical,True
+v1,Download button is not working,Technical,Technical,True
+v1,Website displays a server error,Technical,Technical,True
+v1,Page loads very slowly,Technical,Technical,True
+v1,Screen turns blank after login,Technical,Technical,True
+v1,I forgot my password,Account,Account,True
+v1,Please change my account email,Account,Account,True
+v1,My account has been locked,Account,Account,True
+v1,I cannot sign in to my profile,Account,Technical,False
+v1,How can I update my username,Account,Account,True
+v2,Charged twice for subscription,Billing,Billing,True
+v2,Need a refund for my order,Billing,Billing,True
+v2,Invoice amount looks incorrect,Billing,Billing,True
+v2,Payment failed but money was deducted,Billing,Billing,True
+v2,Please explain my monthly bill,Billing,Billing,True
+v2,App crashes when I open settings,Technical,Technical,True
+v2,Download button is not working,Technical,Technical,True
+v2,Website displays a server error,Technical,Technical,True
+v2,Page loads very slowly,Technical,Technical,True
+v2,Screen turns blank after login,Technical,Technical,True
+v2,I forgot my password,Account,Account,True
+v2,Please change my account email,Account,Account,True
+v2,My account has been locked,Account,Account,True
+v2,I cannot sign in to my profile,Account,Account,True
+v2,How can I update my username,Account,Account,True
+v3,Charged twice for subscription,Billing,Billing,True
+v3,Need a refund for my order,Billing,Billing,True
+v3,Invoice amount looks incorrect,Billing,Billing,True
+v3,Payment failed but money was deducted,Billing,Billing,True
+v3,Please explain my monthly bill,Billing,Billing,True
+v3,App crashes when I open settings,Technical,Technical,True
+v3,Download button is not working,Technical,Technical,True
+v3,Website displays a server error,Technical,Technical,True
+v3,Page loads very slowly,Technical,Technical,True
+v3,Screen turns blank after login,Technical,Technical,True
+v3,I forgot my password,Account,Account,True
+v3,Please change my account email,Account,Account,True
+v3,My account has been locked,Account,Account,True
+v3,I cannot sign in to my profile,Account,Account,True
+v3,How can I update my username,Account,Account,True

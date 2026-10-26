@@ -1,0 +1,16 @@
+﻿ticket,category,priority
+Charged twice for subscription,Billing,High
+Need a refund for my order,Billing,High
+Invoice amount looks incorrect,Billing,Medium
+Payment failed but money was deducted,Billing,High
+Please explain my monthly bill,Billing,Low
+App crashes when I open settings,Technical,High
+Download button is not working,Technical,Medium
+Website displays a server error,Technical,High
+Page loads very slowly,Technical,Medium
+Screen turns blank after login,Technical,High
+I forgot my password,Account,Medium
+Please change my account email,Account,Low
+My account has been locked,Account,High
+I cannot sign in to my profile,Account,High
+How can I update my username,Account,Low

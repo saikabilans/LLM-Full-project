@@ -1,0 +1,42 @@
+[
+    {
+        "name": "resume_01",
+        "format": "pdf",
+        "text": "Name: Saikabilan\nSkills: Python, SQL, Pandas, Machine Learning\nExperience: 2 years as a Data Analyst\nEducation: B.Sc Computer Science\nStrengths: Problem solving, teamwork"
+    },
+    {
+        "name": "resume_02",
+        "format": "txt",
+        "text": "Name: Priya \nSkills: Python, Java, SQL, FastAPI\nExperience: 3 years as a Software Developer\nEducation: B.E Computer Science\nStrengths: Communication, debugging"
+    },
+    {
+        "name": "resume_03",
+        "format": "pdf",
+        "text": "Name: Karthik \nSkills: Excel, SQL, Power BI\nExperience: 1 year as a Data Analyst\nEducation: B.Com\nStrengths: Analytical thinking"
+    },
+    {
+        "name": "resume_04",
+        "format": "txt",
+        "text": "Name: Ken S\nSkills: Python, TensorFlow, Deep Learning\nExperience: 4 years as an ML Engineer\nEducation: M.Sc Data Science\nStrengths: Research, model development"
+    },
+    {
+        "name": "resume_05",
+        "format": "pdf",
+        "text": "Name: Rahul \nSkills: HTML, CSS, JavaScript, React\nExperience: 2 years as a Web Developer\nEducation: B.Tech IT\nStrengths: Creativity, teamwork"
+    },
+    {
+        "name": "resume_06",
+        "format": "txt",
+        "text": "Name: Sai R\nSkills: Python, NLP, Scikit-learn\nExperience: 3 years in Machine Learning\nEducation: M.Sc Computer Science\nStrengths: Problem solving, communication"
+    },
+    {
+        "name": "resume_07",
+        "format": "pdf",
+        "text": "Name: Sanjay \nSkills: Java, Spring Boot, MySQL\nExperience: 5 years as a Backend Developer\nEducation: B.E Information Technology\nStrengths: System design, debugging"
+    },
+    {
+        "name": "resume_08",
+        "format": "txt",
+        "text": "Name: Anitha P\nSkills: Python, Statistics, Tableau\nExperience: 2 years as a Business Analyst\nEducation: MBA\nStrengths: Reporting, analytical thinking"
+    }
+]

@@ -1,0 +1,5 @@
+Validate model output before using it.
+Check important facts against trusted sources.
+Use structured output and schema validation.
+Protect private data and API credentials.
+Require human review for high-impact decisions.

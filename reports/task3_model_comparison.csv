@@ -1,0 +1,4 @@
+﻿Type,Example,Difference
+Encoder,BERT,Good for understanding and fill-mask tasks.
+Decoder,GPT-2,Good for generating the next tokens.
+RNN,Recurrent network,Processes sequences step by step; less parallelizable.

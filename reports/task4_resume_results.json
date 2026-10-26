@@ -1,0 +1,117 @@
+[
+    {
+        "resume": "resume_01",
+        "valid": true,
+        "extracted": {
+            "name": "Saikabilan",
+            "skills": [
+                "Python",
+                "SQL",
+                "Pandas",
+                "Machine Learning"
+            ],
+            "years_experience": 2.0
+        },
+        "error": ""
+    },
+    {
+        "resume": "resume_02",
+        "valid": true,
+        "extracted": {
+            "name": "Priya",
+            "skills": [
+                "Python",
+                "Java",
+                "SQL",
+                "FastAPI"
+            ],
+            "years_experience": 3.0
+        },
+        "error": ""
+    },
+    {
+        "resume": "resume_03",
+        "valid": true,
+        "extracted": {
+            "name": "Karthik",
+            "skills": [
+                "Excel",
+                "SQL",
+                "Power BI"
+            ],
+            "years_experience": 1.0
+        },
+        "error": ""
+    },
+    {
+        "resume": "resume_04",
+        "valid": true,
+        "extracted": {
+            "name": "Ken S",
+            "skills": [
+                "Python",
+                "TensorFlow",
+                "Deep Learning"
+            ],
+            "years_experience": 4.0
+        },
+        "error": ""
+    },
+    {
+        "resume": "resume_05",
+        "valid": true,
+        "extracted": {
+            "name": "Rahul",
+            "skills": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React"
+            ],
+            "years_experience": 2.0
+        },
+        "error": ""
+    },
+    {
+        "resume": "resume_06",
+        "valid": true,
+        "extracted": {
+            "name": "Sai R",
+            "skills": [
+                "Python",
+                "NLP",
+                "Scikit-learn"
+            ],
+            "years_experience": 3.0
+        },
+        "error": ""
+    },
+    {
+        "resume": "resume_07",
+        "valid": true,
+        "extracted": {
+            "name": "Sanjay",
+            "skills": [
+                "Java",
+                "Spring Boot",
+                "MySQL"
+            ],
+            "years_experience": 5.0
+        },
+        "error": ""
+    },
+    {
+        "resume": "resume_08",
+        "valid": true,
+        "extracted": {
+            "name": "Anitha P",
+            "skills": [
+                "Python",
+                "Statistics",
+                "Tableau"
+            ],
+            "years_experience": 2.0
+        },
+        "error": ""
+    }
+]

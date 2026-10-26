@@ -1,0 +1,5 @@
+﻿Family,Owner,Weight access,Context window,Strengths
+GPT,OpenAI,Closed weights,Varies by model,General-purpose assistant and tools
+Claude,Anthropic,Closed weights,Varies by model,"Writing, analysis, and coding"
+Llama,Meta,Open-weight models,Varies by model,Self-hosting and customization
+Gemini,Google,Closed weights,Varies by model,Multimodal tasks and long-context use

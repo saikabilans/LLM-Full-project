@@ -1,0 +1,37 @@
+﻿test,prompt,answer,tokens,seconds,status
+Summarization,"Summarize in one sentence: AI can analyze data, recognize patterns, generate text, and assist with repetitive tasks.","AI can process data, identify patterns, produce text, and help automate repetitive tasks.",65,1.73,success
+Classification,"Classify this ticket as Billing, Technical, or Account: I was charged twice for my subscription.",This ticket should be classified as Billing.,52,2.07,success
+Extraction,Extract name and skills as JSON from this text: Name: Saikabilan. Skills: Python and SQL.,"```json
+{
+  ""name"": ""Saikabilan"",
+  ""skills"": [""Python"", ""SQL""]
+}
+```",73,1.84,success
+Translation,Translate into Tamil: Good morning. How can I help you?,"Good morning. How can I help you? translates to Tamil as: ""காலை வணக்கம். நான் உங்களுக்கு எப்படி உதவலாம்?""",66,1.43,success
+Code generation,Write a Python function that returns the sum of two numbers.,"Certainly! Here is a simple Python function that takes two numbers as input and returns their sum:
+
+```python
+def sum_two_numbers(a, b):
+    return a + b
+```
+
+You can use this function like this:
+
+```python
+result = sum_two_numbers(5, 3)
+print(result)  # Output will be 8
+```
+
+This function works for both integers and floating-point numbers.",120,2.25,success
+Recent information,"Who won the most recent major international cricket match today? If you cannot verify current information, say so.","I cannot verify current information or provide updates on events that occurred after October 2023. For the latest results of major international cricket matches, I recommend checking a reliable sports news website or app.",84,1.84,success
+Hallucination without safeguard,Give the journal and DOI for the fictional paper 'Quantum Mango Networks for Reliable AI' by Dr Alex Example.,"I’m sorry, but I cannot provide a journal or DOI for a fictional paper, as it does not exist in any real academic database. If you have any other questions or need information on a different topic, feel free to ask!",93,1.94,success
+Hallucination with safeguard,"Give the journal and DOI for the fictional paper 'Quantum Mango Networks for Reliable AI' by Dr Alex Example. If you cannot verify that it exists, say you do not know.","I do not know of a paper titled ""Quantum Mango Networks for Reliable AI"" by Dr. Alex Example, as it appears to be fictional. Therefore, I cannot provide a journal or DOI for it.",101,1.84,success
+Middle fact,What is the secret code in this text? The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The weather is sunny. General information follows. The secret code is ORANGE-4729. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. More general information follows. ,"The secret code in the text you provided is ""ORANGE-4729.""",480,1.11,success
+Arithmetic,"A shop has 20 apples, sells 7, and receives 5 more. How many apples are left?","To find out how many apples are left, you can start with the initial number of apples, subtract the number sold, and then add the number received.
+
+1. Start with 20 apples.
+2. Subtract the 7 apples sold: 20 - 7 = 13 apples.
+3. Add the 5 apples received: 13 + 5 = 18 apples.
+
+So, there are 18 apples left.",134,1.84,success
+Logic,All roses are flowers. Some flowers fade quickly. Does that prove that some roses fade quickly? Explain briefly.,"No, it does not prove that some roses fade quickly. The statement ""All roses are flowers"" means that roses are a subset of flowers. The statement ""Some flowers fade quickly"" indicates that there is a group of flowers that fade quickly, but it does not specify that this group includes roses. Therefore, while it is possible that some roses fade quickly, it is not a definitive conclusion based on the information provided.",130,2.39,success

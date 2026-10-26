@@ -1,0 +1,143 @@
+﻿problem,style,answer,status
+A shop has 12 apples and sells 5. How many remain?,direct,"If the shop has 12 apples and sells 5, you can find the number of apples remaining by subtracting the number sold from the total number of apples:
+
+12 apples - 5 apples = 7 apples
+
+So, there are 7 apples remaining.",success
+A shop has 12 apples and sells 5. How many remain?,step_by_step,"To find out how many apples remain after the shop sells some, we can follow these steps:
+
+1. **Identify the initial quantity of apples**: The shop starts with 12 apples.
+
+2. **Identify the quantity of apples sold**: The shop sells 5 apples.
+
+3. **Perform the subtraction**: To find the remaining apples, we subtract the number of apples sold from the initial quantity:
+   \[
+   \text{Remaining apples} = \text{Initial apples} - \text{Apples sold}
+   \]
+   Plugging in the numbers:
+   \[
+   \text{Remaining apples} = 12 - 5
+   \]
+
+4. **Calculate the result**: Now, we perform the subtraction:
+   \[
+   12 - 5 = 7
+   \]
+
+5. **Conclusion**: After selling 5 apples, the shop has 7 apples remaining.
+
+So, the final answer is that there are **7 apples remaining**.",success
+There are 4 boxes with 6 pens each. How many pens?,direct,"To find the total number of pens, you can multiply the number of boxes by the number of pens in each box. 
+
+So, you have:
+
+4 boxes × 6 pens per box = 24 pens
+
+Therefore, there are 24 pens in total.",success
+There are 4 boxes with 6 pens each. How many pens?,step_by_step,"To find the total number of pens, you can follow these steps:
+
+1. **Identify the number of boxes**: You have 4 boxes.
+2. **Identify the number of pens in each box**: Each box contains 6 pens.
+3. **Calculate the total number of pens**: To find the total, you multiply the number of boxes by the number of pens in each box.
+
+   \[
+   \text{Total pens} = \text{Number of boxes} \times \text{Number of pens per box}
+   \]
+
+   Plugging in the numbers:
+
+   \[
+   \text{Total pens} = 4 \times 6
+   \]
+
+4. **Perform the multiplication**:
+
+   \[
+   4 \times 6 = 24
+   \]
+
+So, the total number of pens is **24**.",success
+"A bus has 20 people, 7 leave and 3 enter. How many now?",direct,"To find out how many people are on the bus now, start with the initial number of people, subtract those who leave, and then add those who enter.
+
+1. Start with 20 people.
+2. 7 people leave: \( 20 - 7 = 13 \)
+3. 3 people enter: \( 13 + 3 = 16 \)
+
+So, there are now 16 people on the bus.",success
+"A bus has 20 people, 7 leave and 3 enter. How many now?",step_by_step,"To find out how many people are on the bus after some leave and others enter, we can follow these steps:
+
+1. **Start with the initial number of people on the bus**: 
+   - There are 20 people on the bus.
+
+2. **Subtract the number of people who leave the bus**: 
+   - 7 people leave the bus.
+   - Calculation: \( 20 - 7 = 13 \)
+
+3. **Add the number of people who enter the bus**: 
+   - 3 people enter the bus.
+   - Calculation: \( 13 + 3 = 16 \)
+
+4. **Final count**: 
+   - After 7 people leave and 3 people enter, there are 16 people remaining on the bus.
+
+So, the final answer is that there are **16 people on the bus now**.",success
+A book costs 10 dollars. What do 3 books cost?,direct,"If one book costs 10 dollars, then 3 books would cost:
+
+3 books × 10 dollars/book = 30 dollars.
+
+So, 3 books cost 30 dollars.",success
+A book costs 10 dollars. What do 3 books cost?,step_by_step,"To find the total cost of 3 books, you can follow these steps:
+
+1. **Identify the cost of one book**: The cost of one book is given as 10 dollars.
+
+2. **Determine the number of books**: You want to find the cost for 3 books.
+
+3. **Multiply the cost of one book by the number of books**: 
+   \[
+   \text{Total cost} = \text{Cost of one book} \times \text{Number of books}
+   \]
+   Substituting the values:
+   \[
+   \text{Total cost} = 10 \text{ dollars} \times 3
+   \]
+
+4. **Perform the multiplication**:
+   \[
+   10 \times 3 = 30
+   \]
+
+5. **Conclusion**: The total cost for 3 books is 30 dollars.
+
+So, 3 books cost 30 dollars.",success
+Sam has 15 coins and gives 4 to a friend. How many remain?,direct,"Sam originally has 15 coins. After giving 4 coins to a friend, the number of coins he has left can be calculated as follows:
+
+15 coins - 4 coins = 11 coins
+
+Therefore, Sam has 11 coins remaining.",success
+Sam has 15 coins and gives 4 to a friend. How many remain?,step_by_step,"To find out how many coins Sam has remaining after giving some to a friend, we can follow these steps:
+
+1. **Identify the initial number of coins**: Sam starts with 15 coins.
+
+2. **Identify the number of coins given away**: Sam gives 4 coins to a friend.
+
+3. **Perform the subtraction**: To find out how many coins Sam has left, we subtract the number of coins given away from the initial number of coins.
+
+   \[
+   \text{Remaining coins} = \text{Initial coins} - \text{Coins given away}
+   \]
+
+   Plugging in the numbers:
+
+   \[
+   \text{Remaining coins} = 15 - 4
+   \]
+
+4. **Calculate the result**:
+
+   \[
+   15 - 4 = 11
+   \]
+
+5. **Conclusion**: Sam has 11 coins remaining after giving 4 coins to his friend. 
+
+So, the final answer is that Sam has **11 coins** left.",success
